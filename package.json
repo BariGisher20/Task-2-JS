@@ -1,0 +1,8 @@
+{
+	"name": "simple app",
+	"version": "v18.8.0",
+	"author": "Bari Gisher",
+	"scripts": {
+		"start": "node index.js"
+	}
+}
